@@ -1,2 +1,2 @@
 # plant-monitoring-system
-Collects environmental data important to a plant and automatically waters the plant to optimal levels.
+Utilizes a ESP32 microcontroller and sensors to collect key data (temperature, humidity, and soil moisture). Automatically waters the plants accordingly to the soil moisture data. Powered by solar panels paired to a Li-ion battery.
